@@ -1,0 +1,16 @@
+{
+  "appId": "com.xcalhunter.app",
+  "appName": "XCAL HUNTER",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true,
+    "allowNavigation": [
+      "http://zanfal.jhonaley.web.id:4100",
+      "http://zanfal.jhonaley.web.id"
+    ]
+  }
+}
