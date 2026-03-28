@@ -1,9 +1,11 @@
 {
   "appId": "com.xcalhunter.app",
-  "appName": "XCAL HUNTER",
+  "appName": "XCAL HUNTER V5",
   "webDir": "www",
   "android": {
-    "allowMixedContent": true
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
   },
   "server": {
     "androidScheme": "http",
